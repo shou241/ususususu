@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#img1{
+    width: 700px;
+    height: 500px;
+    padding: 30px;
+}
+
+#img2{
+    width: 700px;
+    height: 500px;
+    padding: 30px;
+}
+
+#img3{
+    width: 700px;
+    height: 500px;
+    padding: 30px;
+}
+
+.movie_head{
+ font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
+
+.movie_head i{
+    float: right;
+    
+}
+    
+#achievementsind{
+    padding-bottom: 10px;
+    
+}
+
+
+html{
+	scroll-behavior: smooth;
+}
+
+
+
+.alumni{
+	cursor: pointer;
+}
+
+.alumni hr{
+	margin-bottom: 10px;
+}
+
+.modal-content{
+	margin-top: 100px;
+}
+
+.img_modal{
+	display: inline-block;
+}
+
+
+.p_modal{
+	margin-top: 10px;
+} 
+
+
+.modal-body{
+	text-align: center;
+}
